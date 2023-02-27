@@ -1,0 +1,18 @@
+#TituloDaPaginaUm{
+    color: rgba(255, 0, 0, 0.616);
+    text-align: center;
+    text-transform: capitalize;
+    border: 5px solid blue;
+    padding: 100px;
+}
+#a1{
+    color: orange;
+}
+#botaopaginadoisa{
+    color: black;
+}
+#botaopaginadois{
+    background-color: brown;
+}
+body {background-color: rgb(53, 70, 100, 0.800);}
+a {color: orange;}
